@@ -1508,7 +1508,7 @@ input::-moz-focus-inner {
   right: 100%;
 }
 .header-menu-toggle.opaque {
-  background-color: #000000;
+  /*background-color: #000000;*/
 }
 .header-menu-toggle.opaque::before {
   display: none;
