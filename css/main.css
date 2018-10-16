@@ -1309,7 +1309,7 @@ input::-moz-focus-inner {
   padding: 3.6rem 3rem 3.6rem 3.6rem;
   height: 100%;
   width: 280px;
-  /*background: #0c0c0c;*/
+ background: #0c0c0c;
   color: rgba(255, 255, 255, 0.25);
   overflow-y: auto;
   overflow-x: hidden;
@@ -1349,7 +1349,7 @@ input::-moz-focus-inner {
 }
 
 .header-nav__content {
- /* background: #0c0c0c;*/
+background: #0c0c0c;
   position: relative;
   left: 50px;
   opacity: 0;
